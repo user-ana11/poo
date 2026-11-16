@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    width: 80%;
+    margin: 40px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#task-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+#task-list div {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+button {
+    background-color: #2457a6;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}

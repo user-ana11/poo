@@ -1,0 +1,22 @@
+[
+    {
+        "text": "Study JavaScript",
+        "category": "Study",
+        "completed": false
+    },
+    {
+        "text": "Finish homework",
+        "category": "Work",
+        "completed": false
+    },
+    {
+        "text": "Read a book",
+        "category": "Personal",
+        "completed": true
+    },
+    {
+        "text": "Practice programming",
+        "category": "Study",
+        "completed": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Titanic",
+        "director": "James Cameron",
+        "year": 1997,
+        "rating": 9
+    },
+    {
+        "title": "Avatar",
+        "director": "James Cameron",
+        "year": 2009,
+        "rating": 8
+    },
+    {
+        "title": "Joker",
+        "director": "Todd Phillips",
+        "year": 2019,
+        "rating": 7
+    },
+    {
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "year": 2014,
+        "rating": 10
+    }
+]
